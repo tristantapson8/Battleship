@@ -1,7 +1,5 @@
 
 //*******************************************************************
-//  Tristan Tapson
-//	001319964
 //
 // Console Battleship Java Implementation (MVC)
 // Player's begin by placing ships via scanner inputs, and then take
@@ -9,6 +7,7 @@
 // game boards accordingly. This is the OUTOFBOUNDSEXCEPTION component,
 // which throws an exception if illegal input coordinates are given
 // to the scanner.
+//
 //*******************************************************************
 
 @SuppressWarnings("serial")
