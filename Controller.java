@@ -1,13 +1,12 @@
 
 //*******************************************************************
-//  Tristan Tapson
-//	001319964
 //
 // Console Battleship Java Implementation (MVC)
 // Player's begin by placing ships via scanner inputs, and then take
 // shots at each other after all ships have been placed on their 
 // game boards accordingly. This is the CONTROLLER component, which 
 // implements the actions to be done by a player.
+//
 //*******************************************************************
 
 import java.util.Scanner;
