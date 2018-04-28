@@ -1,13 +1,12 @@
 
 //*******************************************************************
-//  Tristan Tapson
-//	001319964
 //
 // Console Battleship Java Implementation (MVC)
 // Player's begin by placing ships via scanner inputs, and then take
 // shots at each other after all ships have been placed on their 
 // game boards accordingly. This is the MODEL component, which checks
 // to see if actions done by a player are valid.
+//
 //*******************************************************************
 
 public class Model {
